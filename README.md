@@ -8,9 +8,9 @@
 
 This repository contains **predefined code snippets** that can help competitive programmers **save time and avoid repetitive coding tasks**. It currently supports two popular editors:
 
-- ### [VS Code Snippet](/CodeBlocks.md)
+- ### [VS Code Snippet](/VScode.md)
     - Snippets for C++ competitive programming.
-- ### [CodeBlocks Snippet](/VScode.md)
+- ### [CodeBlocks Snippet](/CodeBlocks.md)
     - Snippets for C++ competitive programming.
 
 These snippets include:
